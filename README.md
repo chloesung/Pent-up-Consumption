@@ -6,3 +6,6 @@
 - **웹페이지**: [제19회 한국경제신문 경제논문 공모전](https://www.hankyung.com/economy/article/2021120566121)
 
 ## Introduction
+
+## Team
+성유지, 김승현, 
