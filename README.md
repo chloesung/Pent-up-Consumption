@@ -1,6 +1,6 @@
 # Pent-up Consumption
 
-![뉴스 스크랩](https://user-images.githubusercontent.com/71932401/147087675-94f7dd1f-a35a-4a99-b4ce-f7a2bc2f0ddc.jpeg)
+<img width="854" alt="스크린샷 2021-12-22 오후 8 54 19" src="https://user-images.githubusercontent.com/71932401/147089150-da47eaac-8905-4030-be65-f6e0eaa72050.png">
 
 ## 제19회 한국경제신문 경제논문 공모전 우수상 (국제부문 1등)
 - **주최**: 한국경제신문, 한국경제학회
